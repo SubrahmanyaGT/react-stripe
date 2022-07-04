@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://stripe-signin.vercel.app:2100/",
+  "proxy": "https://stripe-signin-q9dvdrw0b-subrahmanyagt.vercel.app:2100/",
   "devDependencies": {
     "nodemon": "^2.0.18"
   }
